@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Wirtalks</string>
+    <string name="button1">Catg1</string>
+    <string name="button2">Catg2</string>
+    <string name="button3">Catg3</string>
+    <string name="button4">Catg4</string>
+    <string name="button5">Catg5</string>
+    <string name="nextButton">Next</string>
+    <string name="favoriteCategories">To favorite categories</string>
+    <string name="skipButton">Skip</string>
+    <string name="favoriteCategoriesText">Choose your favorite categories</string>
+    <string name="wirtalks">Wirtalks</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="library">Library</string>
+    <string name="profile">Profile</string>
+    <string name="new_bottom">New</string>
+    <string name="TopPodcastText">Top Podcasts</string>
+    <string name="ViewAllButtonText">View all</string>
+    <string name="playlist">Playlist</string>
+    <string name="view_all_playlist">View all</string>
+    <string name="PlaylistTextView">Playlist</string>
+    <string name="PodcastName">PodcastName</string>
+    <string name="PodcastChannelName">PodcastChannelName</string>
+    <string name="dateValue">dateValue</string>
+    <string name="titleValue">titleValue</string>
+    <string name="descriptionValue">descriptionValue</string>
+    <string name="detailsValue">Details</string>
+    <string name="durationValue">durationValue</string>
+    <string name="playButton">Play Button</string>
+
+</resources>

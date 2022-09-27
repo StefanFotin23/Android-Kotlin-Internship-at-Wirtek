@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <item
+        android:id="@+id/navHomeFragment"
+        android:icon="@drawable/ic_list_ul_solid__1_"
+        android:title="@string/library"
+        app:itemTextAppearance="@style/menu_text_style"
+
+
+        />
+    <item
+        android:id="@+id/newFragment"
+        android:icon="@drawable/ic_microphone_soli"
+        android:title="@string/new_bottom"
+        app:itemTextAppearance="@style/menu_text_style"
+
+        />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_user_alt_solid_mdpi"
+        android:title="@string/profile"
+        app:itemTextAppearance="@style/menu_text_style"
+
+        />
+</menu>
